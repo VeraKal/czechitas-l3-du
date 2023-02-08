@@ -20,3 +20,25 @@ body {
 	background-color: white;
 	color: #333;
 }
+
+button {
+	font-size: 24px;
+	color: white;
+	background-color: hotpink;
+	padding: 10px;
+	margin: 30px 0;
+}
+
+button:hover {
+	background-color: rgb(236, 66, 151);
+}
+
+.vystup-text, 
+.vystup-text2 {
+	width: 600px;
+	border: 1px solid rgb(163, 163, 163);
+	font-weight: 700;
+	padding: 30px;
+	margin-bottom: 50px;
+	
+}
